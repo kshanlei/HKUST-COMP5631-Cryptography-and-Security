@@ -1,1 +1,1 @@
-# HKUST-COMP5631-Cryptography-and-Security-Lecture-Slides
+# HKUST-COMP5631-Cryptography-and-Security
